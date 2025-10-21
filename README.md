@@ -6,6 +6,8 @@
 
 Space Skirmish is a simple PvE game where the main objective is to protect your starbase as long as possible. 
 
+Developed October 21st 2025
+
 ![SpaceSkirmish](https://github.com/nico-snow-sl/Portfolio/blob/main/images/gameplay.png?raw=true)
 
 
