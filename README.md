@@ -2,7 +2,7 @@
 
 Game Development Certification:
 
-![Certificate](https://github.com/nico-snow-sl/Portfolio/blob/main/images/Nico%20Snow_Game%20Development%20Fundamentals%201_12182025.pdf)
+* [Certificate](https://github.com/nico-snow-sl/Portfolio/blob/main/images/Nico%20Snow_Game%20Development%20Fundamentals%201_12182025.pdf)
 (image not shown)
 
 9723953@graniteschools.org
