@@ -1,5 +1,8 @@
 # Nico's Game Development Portfolio 25-26
 
+Game Development Certification:
+![Certificate](https://github.com/nico-snow-sl/Portfolio/blob/main/images/Nico%20Snow_Game%20Development%20Fundamentals%201_12182025.pdf)
+
 9723953@graniteschools.org
 
 ## Term 1 Projects
