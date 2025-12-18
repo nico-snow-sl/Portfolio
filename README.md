@@ -10,7 +10,28 @@ Developed October 21st 2025
 
 ![SpaceSkirmish](https://github.com/nico-snow-sl/Portfolio/blob/main/images/gameplay.png?raw=true)
 
-
 * [Windows EXE](https://github.com/nico-snow-sl/Portfolio/blob/main/src/SpaceSkirmish/windows-amd64.zip)
 * [Mac App](https://github.com/nico-snow-sl/Portfolio/blob/main/src/SpaceSkirmish/macos-aarch64.zip)
 * [Source Code](https://github.com/nico-snow-sl/Portfolio/tree/main/src/SpaceSkirmish)
+
+
+## Term 2 Projects
+
+### Lunacy (collaborative)
+
+A Isometric horror game about "not losing it". Keep your flame alive and dont starve.
+
+Developed November 1st 2025
+
+I contributed to the art, dialogue, and player coding.
+
+![Mockup1](https://github.com/nico-snow-sl/Portfolio/blob/main/images/mockup1.png?raw=true)
+
+![Mockup2](https://github.com/nico-snow-sl/Portfolio/blob/main/images/mockup2.png?raw=true)
+
+Source Code:
+
+* [SourceCode](https://github.com/BugSlayer360/GroupGame/tree/main/src)
+
+
+
